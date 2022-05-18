@@ -2,7 +2,7 @@
 Simple application on responsive 
 # play in responsive<br>
 ==> click right click<br>
-==> choose inspect and play in dimensions<br>
+==> choose inspect and play in Width dimensions<br>
 Lets Goo
 https://manar20575.github.io/Fun-Box/
 **u will see color change <3**
